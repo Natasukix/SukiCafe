@@ -1,0 +1,24 @@
+{
+  "name": "sukicafe",
+  "version": "1.0.0",
+  "description": "A game about my own cafe",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./public"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "lite-server": "^2.6.1"
+  },
+  "keywords": [],
+  "author": "Edlin Aka Natasuki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natasukix/SukiCafe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Natasukix/SukiCafe/issues"
+  },
+  "homepage": "https://github.com/Natasukix/SukiCafe#readme"
+}
